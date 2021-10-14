@@ -9,7 +9,7 @@ Perf
 | render timechart
 ```
 
-* OS Matrics Data ingestion into LAW
+* OS Matrics Data ingestion into LAW (latency graph)
 
 ```
 Heartbeat

@@ -1,7 +1,7 @@
 * Graph of LAW matrics for a specific VM 
 
 ```
-let vm_name = "ene4vpcadm03";
+let vm_name = "abcmyvmtest03";
 Perf 
 | where Computer contains vm_name 
 | where (CounterName == "% Committed Bytes In use") 
